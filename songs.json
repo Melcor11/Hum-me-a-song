@@ -132,10 +132,6 @@
         "artist": "Leonard Cohen"
     },
     {
-        "title": "Rolling in the Deep",
-        "artist": "Adele"
-    },
-    {
         "title": "Poker Face",
         "artist": "Lady Gaga"
     },
@@ -214,5 +210,213 @@
     {
         "title": "Trójkąty i kwadraty",
         "artist": "Dawid Podsiadło"
+    },
+    {
+        "title": "Take Me to Church",
+        "artist": "Hozier"
+    },
+    {
+        "title": "Believer",
+        "artist": "Imagine Dragons"
+    },
+    {
+        "title": "Radio Ga Ga",
+        "artist": "Queen"
+    },
+    {
+        "title": "Despacito",
+        "artist": "Luis Fonsi ft. Daddy Yankee"
+    },
+    {
+        "title": "Happy",
+        "artist": "Pharrell Williams"
+    },
+    {
+        "title": "Mamma Mia",
+        "artist": "ABBA"
+    },
+    {
+        "title": "Waterloo",
+        "artist": "ABBA"
+    },
+    {
+        "title": "Dancing Queen",
+        "artist": "ABBA"
+    },
+    {
+        "title": "Jolka, Jolka pamiętasz",
+        "artist": "Budka Suflera"
+    },
+    {
+        "title": "Przeżyj to sam",
+        "artist": "Lombard"
+    },
+    {
+        "title": "Kocham Cię, kochanie moje",
+        "artist": "Maanam"
+    },
+    {
+        "title": "Dziwny jest ten świat",
+        "artist": "Czesław Niemen"
+    },
+    {
+        "title": "Nie pytaj o Polskę",
+        "artist": "Obywatel G.C."
+    },
+    {
+        "title": "Miłość w Zakopanem",
+        "artist": "Sławomir"
+    },
+    {
+        "title": "Bałkanica",
+        "artist": "Piersi"
+    },
+    {
+        "title": "Niech żyje bal",
+        "artist": "Maryla Rodowicz"
+    },
+    {
+        "title": "Winda do nieba",
+        "artist": "2+1"
+    },
+    {
+        "title": "Parostatek",
+        "artist": "Krzysztof Krawczyk"
+    },
+    {
+        "title": "Nic nie może wiecznie trwać",
+        "artist": "Anna Jantar"
+    },
+    {
+        "title": "Być kobietą",
+        "artist": "Alicja Majewska"
+    },
+    {
+        "title": "Szczęśliwego Nowego Jorku",
+        "artist": "Hey"
+    },
+    {
+        "title": "Ona tańczy dla mnie",
+        "artist": "Weekend"
+    },
+    {
+        "title": "Jesteś szalona",
+        "artist": "Boys"
+    },
+    {
+        "title": "Love Me Like You Do",
+        "artist": "Ellie Goulding"
+    },
+    {
+        "title": "Shallow",
+        "artist": "A Star is Born"
+    },
+    {
+        "title": "I Don't Want to Miss a Thing",
+        "artist": "Aerosmith"
+    },
+    {
+        "title": "Lose Yourself",
+        "artist": "8 Mile"
+    },
+    {
+        "title": "Ghostbusters",
+        "artist": "Ghostbusters"
+    },
+    {
+        "title": "I'll Be There for You",
+        "artist": "Friends"
+    },
+    {
+        "title": "Czas nas uczy pogody",
+        "artist": "Grażyna Łobaszewska"
+    },
+    {
+        "title": "Zawsze tam gdzie Ty",
+        "artist": "Lady Pank"
+    },
+    {
+        "title": "Wehikuł czasu",
+        "artist": "Dżem"
+    },
+    {
+        "title": "Whiskey",
+        "artist": "Dżem"
+    },
+    {
+        "title": "Sen o Warszawie",
+        "artist": "Czesław Niemen"
+    },
+    {
+        "title": "Wojna i pokój",
+        "artist": "Perfect"
+    },
+    {
+        "title": "Niebo dla Ciebie",
+        "artist": "Varius Manx"
+    },
+    {
+        "title": "Kryzysowa narzeczona",
+        "artist": "Lady Pank"
+    },
+    {
+        "title": "Boys Don't Cry",
+        "artist": "The Cure"
+    },
+    {
+        "title": "Czas jak rzeka",
+        "artist": "Czesław Niemen"
+    },
+    {
+        "title": "Sound of Silence",
+        "artist": "Simon & Garfunkel"
+    },
+    {
+        "title": "Roxanne",
+        "artist": "The Police"
+    },
+    {
+        "title": "Message in a Bottle",
+        "artist": "The Police"
+    },
+    {
+        "title": "Heroes",
+        "artist": "David Bowie"
+    },
+    {
+        "title": "Space Oddity",
+        "artist": "David Bowie"
+    },
+    {
+        "title": "Nothing Compares 2 U",
+        "artist": "Sinéad O'Connor"
+    },
+    {
+        "title": "I Want It That Way",
+        "artist": "Backstreet Boys"
+    },
+    {
+        "title": "Toxic",
+        "artist": "Britney Spears"
+    },
+    {
+        "title": "Chandelier",
+        "artist": "Sia"
+    },
+    {
+        "title": "Just Give Me a Reason",
+        "artist": "P!nk"
+    },
+    {
+        "title": "All Star",
+        "artist": "Shrek"
+    },
+    {
+        "title": "I Will Always Love You",
+        "artist": "The Bodyguard"
+    },
+    {
+        "title": "City of Stars",
+        "artist": "La La Land"
     }
 ]
