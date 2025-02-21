@@ -244,6 +244,10 @@
         "artist": "ABBA"
     },
     {
+        "title": "Chiquitita",
+        "artist": "ABBA"
+    },
+    {
         "title": "Jolka, Jolka pamiętasz",
         "artist": "Budka Suflera"
     },
@@ -309,7 +313,7 @@
     },
     {
         "title": "Shallow",
-        "artist": "A Star is Born"
+        "artist": "A star is born"
     },
     {
         "title": "I Don't Want to Miss a Thing",
@@ -317,7 +321,7 @@
     },
     {
         "title": "Lose Yourself",
-        "artist": "8 Mile"
+        "artist": "Eminem"
     },
     {
         "title": "Ghostbusters",
@@ -413,7 +417,7 @@
     },
     {
         "title": "I Will Always Love You",
-        "artist": "The Bodyguard"
+        "artist": "Whitney Houston"
     },
     {
         "title": "City of Stars",
