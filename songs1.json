@@ -1,0 +1,426 @@
+[
+  {
+    "title": "Winda do nieba",
+    "artist": "2+1"
+  },
+  {
+    "title": "Shallow",
+    "artist": "A star is born"
+  },
+  {
+    "title": "Take on Me",
+    "artist": "A-ha"
+  },
+  {
+    "title": "Mamma Mia",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Waterloo",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Chiquitita",
+    "artist": "ABBA"
+  },
+  {
+    "title": "Highway to Hell",
+    "artist": "AC/DC"
+  },
+  {
+    "title": "Back in Black",
+    "artist": "AC/DC"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele"
+  },
+  {
+    "title": "I Don't Want to Miss a Thing",
+    "artist": "Aerosmith"
+  },
+  {
+    "title": "Być kobietą",
+    "artist": "Alicja Majewska"
+  },
+  {
+    "title": "Nic nie może wiecznie trwać",
+    "artist": "Anna Jantar"
+  },
+  {
+    "title": "Skóra",
+    "artist": "Aya RL"
+  },
+  {
+    "title": "I Want It That Way",
+    "artist": "Backstreet Boys"
+  },
+  {
+    "title": "Rzeka Marzeń",
+    "artist": "Beata Kozidrak"
+  },
+  {
+    "title": "We Didn't Start the Fire",
+    "artist": "Billy Joel"
+  },
+  {
+    "title": "Like a Rolling Stone",
+    "artist": "Bob Dylan"
+  },
+  {
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi"
+  },
+  {
+    "title": "Jesteś szalona",
+    "artist": "Boys"
+  },
+  {
+    "title": "Toxic",
+    "artist": "Britney Spears"
+  },
+  {
+    "title": "Miał być ślub",
+    "artist": "Brodka"
+  },
+  {
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen"
+  },
+  {
+    "title": "Jolka, Jolka pamiętasz",
+    "artist": "Budka Suflera"
+  },
+  {
+    "title": "My Słowianie",
+    "artist": "Cleo & Donatan"
+  },
+  {
+    "title": "Dziwny jest ten świat",
+    "artist": "Czesław Niemen"
+  },
+  {
+    "title": "Sen o Warszawie",
+    "artist": "Czesław Niemen"
+  },
+  {
+    "title": "Czas jak rzeka",
+    "artist": "Czesław Niemen"
+  },
+  {
+    "title": "Maszyna do świerkania",
+    "artist": "Czesław Śpiewa"
+  },
+  {
+    "title": "Heroes",
+    "artist": "David Bowie"
+  },
+  {
+    "title": "Space Oddity",
+    "artist": "David Bowie"
+  },
+  {
+    "title": "Trójkąty i kwadraty",
+    "artist": "Dawid Podsiadło"
+  },
+  {
+    "title": "Wehikuł czasu",
+    "artist": "Dżem"
+  },
+  {
+    "title": "Whiskey",
+    "artist": "Dżem"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles"
+  },
+  {
+    "title": "Shape of You",
+    "artist": "Ed Sheeran"
+  },
+  {
+    "title": "Love Me Like You Do",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "title": "Lose Yourself",
+    "artist": "Eminem"
+  },
+  {
+    "title": "I'll Be There for You",
+    "artist": "Friends"
+  },
+  {
+    "title": "Ghostbusters",
+    "artist": "Ghostbusters"
+  },
+  {
+    "title": "Czas nas uczy pogody",
+    "artist": "Grażyna Łobaszewska"
+  },
+  {
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day"
+  },
+  {
+    "title": "21 Guns",
+    "artist": "Green Day"
+  },
+  {
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses"
+  },
+  {
+    "title": "Szczęśliwego Nowego Jorku",
+    "artist": "Hey"
+  },
+  {
+    "title": "Take Me to Church",
+    "artist": "Hozier"
+  },
+  {
+    "title": "Keine Grenzen",
+    "artist": "Ich Troje"
+  },
+  {
+    "title": "Radioactive",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Believer",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon"
+  },
+  {
+    "title": "Don't Stop Believin'",
+    "artist": "Journey"
+  },
+  {
+    "title": "Can't Stop the Feeling!",
+    "artist": "Justin Timberlake"
+  },
+  {
+    "title": "Parostatek",
+    "artist": "Krzysztof Krawczyk"
+  },
+  {
+    "title": "City of Stars",
+    "artist": "La La Land"
+  },
+  {
+    "title": "Poker Face",
+    "artist": "Lady Gaga"
+  },
+  {
+    "title": "Zawsze tam gdzie Ty",
+    "artist": "Lady Pank"
+  },
+  {
+    "title": "Kryzysowa narzeczona",
+    "artist": "Lady Pank"
+  },
+  {
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin"
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "Leonard Cohen"
+  },
+  {
+    "title": "Przeżyj to sam",
+    "artist": "Lombard"
+  },
+  {
+    "title": "Despacito",
+    "artist": "Luis Fonsi ft. Daddy Yankee"
+  },
+  {
+    "title": "Kocham Cię, kochanie moje",
+    "artist": "Maanam"
+  },
+  {
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars"
+  },
+  {
+    "title": "Niech żyje bal",
+    "artist": "Maryla Rodowicz"
+  },
+  {
+    "title": "Nothing Else Matters",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Enter Sandman",
+    "artist": "Metallica"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Złoto",
+    "artist": "Mrozu"
+  },
+  {
+    "title": "Długość dźwięku samotności",
+    "artist": "Myslovitz"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana"
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis"
+  },
+  {
+    "title": "Nie pytaj o Polskę",
+    "artist": "Obywatel G.C."
+  },
+  {
+    "title": "Just Give Me a Reason",
+    "artist": "P!nk"
+  },
+  {
+    "title": "Wojna i pokój",
+    "artist": "Perfect"
+  },
+  {
+    "title": "Happy",
+    "artist": "Pharrell Williams"
+  },
+  {
+    "title": "Bałkanica",
+    "artist": "Piersi"
+  },
+  {
+    "title": "Another Brick in the Wall",
+    "artist": "Pink Floyd"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen"
+  },
+  {
+    "title": "Somebody to Love",
+    "artist": "Queen"
+  },
+  {
+    "title": "We Will Rock You",
+    "artist": "Queen"
+  },
+  {
+    "title": "I Want to Break Free",
+    "artist": "Queen"
+  },
+  {
+    "title": "We Are the Champions",
+    "artist": "Queen"
+  },
+  {
+    "title": "Radio Ga Ga",
+    "artist": "Queen"
+  },
+  {
+    "title": "Creep",
+    "artist": "Radiohead"
+  },
+  {
+    "title": "All Star",
+    "artist": "Shrek"
+  },
+  {
+    "title": "Chandelier",
+    "artist": "Sia"
+  },
+  {
+    "title": "Sound of Silence",
+    "artist": "Simon & Garfunkel"
+  },
+  {
+    "title": "Nothing Compares 2 U",
+    "artist": "Sinéad O'Connor"
+  },
+  {
+    "title": "Superstition",
+    "artist": "Stevie Wonder"
+  },
+  {
+    "title": "Eye of the Tiger",
+    "artist": "Survivor"
+  },
+  {
+    "title": "Miłość w Zakopanem",
+    "artist": "Sławomir"
+  },
+  {
+    "title": "Hey Jude",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Let it Be",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Yesterday",
+    "artist": "The Beatles"
+  },
+  {
+    "title": "Zombie",
+    "artist": "The Cranberries"
+  },
+  {
+    "title": "Boys Don't Cry",
+    "artist": "The Cure"
+  },
+  {
+    "title": "Roxanne",
+    "artist": "The Police"
+  },
+  {
+    "title": "Message in a Bottle",
+    "artist": "The Police"
+  },
+  {
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes"
+  },
+  {
+    "title": "Africa",
+    "artist": "Toto"
+  },
+  {
+    "title": "Niebo dla Ciebie",
+    "artist": "Varius Manx"
+  },
+  {
+    "title": "Ona tańczy dla mnie",
+    "artist": "Weekend"
+  },
+  {
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston"
+  },
+  {
+    "title": "Sługi za szlugi",
+    "artist": "Yugopolis"
+  }
+]
