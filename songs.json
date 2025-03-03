@@ -44,6 +44,14 @@
     "artist": "Adele"
   },
   {
+    "title": "Set Fire To The Rain",
+    "artist": "Adele"
+  },
+  {
+    "title": "Skyfall",
+    "artist": "Adele"
+  },
+  {
     "title": "I Don't Want to Miss a Thing",
     "artist": "Aerosmith"
   },
@@ -54,6 +62,10 @@
   {
     "title": "Nic nie może wiecznie trwać",
     "artist": "Anna Jantar"
+  },
+  {
+    "title": "Do I wanna know?",
+    "artist": "Arctic Monkeys"
   },
   {
     "title": "Wake Me Up",
@@ -72,6 +84,18 @@
     "artist": "Backstreet Boys"
   },
   {
+    "title": "Co mi panie dasz",
+    "artist": "Bajm"
+  },
+  {
+    "title": "Noc po ciężkim dniu",
+    "artist": "Bajm"
+  },
+  {
+    "title": "Płynie w nas gorąca krew",
+    "artist": "Bajm"
+  },
+  {
     "title": "Rzeka Marzeń",
     "artist": "Beata Kozidrak"
   },
@@ -80,11 +104,19 @@
     "artist": "Billy Joel"
   },
   {
+    "title": "Hooked On A Feeling",
+    "artist": "Blue Swede"
+  },
+  {
     "title": "Like a Rolling Stone",
     "artist": "Bob Dylan"
   },
   {
     "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi"
+  },
+  {
+    "title": "It's My Life",
     "artist": "Bon Jovi"
   },
   {
@@ -140,6 +172,10 @@
     "artist": "Dawid Podsiadło"
   },
   {
+    "title": "Jolene",
+    "artist": "Dolly Parton"
+  },
+  {
     "title": "Wehikuł czasu",
     "artist": "Dżem"
   },
@@ -162,6 +198,10 @@
   {
     "title": "Lose Yourself",
     "artist": "Eminem"
+  },
+  {
+    "title": "Bring Me To Life",
+    "artist": "Evanescence"
   },
   {
     "title": "I'll Be There for You",
@@ -248,6 +288,10 @@
     "artist": "Leonard Cohen"
   },
   {
+    "title": "Funkytown",
+    "artist": "Lipps Inc."
+  },
+  {
     "title": "Przeżyj to sam",
     "artist": "Lombard"
   },
@@ -324,6 +368,10 @@
     "artist": "Pink Floyd"
   },
   {
+    "title": "Timber",
+    "artist": "Pitbull"
+  },
+  {
     "title": "Bohemian Rhapsody",
     "artist": "Queen"
   },
@@ -350,6 +398,10 @@
   {
     "title": "Creep",
     "artist": "Radiohead"
+  },
+  {
+    "title": "Otherside",
+    "artist": "Red Hot Chilli Peppers"
   },
   {
     "title": "All Star",
@@ -408,12 +460,24 @@
     "artist": "The Cure"
   },
   {
+    "title": "Dream A Little Dream Of Me",
+    "artist": "The Mamas & The Papas"
+  },
+  {
+    "title": "California Dreamin'",
+    "artist": "The Mamas & The Papas"
+  },
+  {
     "title": "Roxanne",
     "artist": "The Police"
   },
   {
     "title": "Message in a Bottle",
     "artist": "The Police"
+  },
+  {
+    "title": "In The Shadows",
+    "artist": "The Rasmus"
   },
   {
     "title": "Seven Nation Army",
@@ -434,6 +498,22 @@
   {
     "title": "I Will Always Love You",
     "artist": "Whitney Houston"
+  },
+  {
+    "title": "Urke",
+    "artist": "Wilki"
+  },
+  {
+    "title": "Na Zawsze i Na Wieczność",
+    "artist": "Wilki"
+  },
+  {
+    "title": "Bohema",
+    "artist": "Wilki"
+  },
+  {
+    "title": "Son Of The Blue Sky",
+    "artist": "Wilki"
   },
   {
     "title": "Sługi za szlugi",
