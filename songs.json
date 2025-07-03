@@ -64,7 +64,15 @@
     "artist": "Alicja Majewska"
   },
   {
+    "title": "Czy ten Pan i Pani",
+    "artist": "Ania Wyszkoni"
+  },
+  {
     "title": "Nic nie może wiecznie trwać",
+    "artist": "Anna Jantar"
+  },
+  {
+    "title": "Tyle słońca w całym mieście",
     "artist": "Anna Jantar"
   },
   {
@@ -120,12 +128,28 @@
     "artist": "Beata Kozidrak"
   },
   {
+    "title": "Single ladies",
+    "artist": "Beyonce"
+  },
+  {
+    "title": "Makumba",
+    "artist": "Big Cyc"
+  },
+  {
+    "title": "Facet to świnia",
+    "artist": "Big Cyc"
+  },
+  {
     "title": "We Didn't Start the Fire",
     "artist": "Billy Joel"
   },
   {
     "title": "Uptown Girl",
     "artist": "Billy Joel"
+  },
+  {
+    "title": "Ciągnik",
+    "artist": "Blenders"
   },
   {
     "title": "Hooked On A Feeling",
@@ -144,8 +168,16 @@
     "artist": "Bon Jovi"
   },
   {
+    "title": "Total eclipse of the heart",
+    "artist": "Bonnie Tyler"
+  },
+  {
     "title": "Jesteś szalona",
     "artist": "Boys"
+  },
+  {
+    "title": "Czerwone korale",
+    "artist": "Brathanki"
   },
   {
     "title": "Toxic",
@@ -168,12 +200,20 @@
     "artist": "Budka Suflera"
   },
   {
+    "title": "Bal wszystkich świętych",
+    "artist": "Budka Suflera"
+  },
+  {
     "title": "Wicked Game",
     "artist": "Chris Isaak"
   },
   {
     "title": "My Słowianie",
     "artist": "Cleo & Donatan"
+  },
+  {
+    "title": "Hymn for the weekend",
+    "artist": "Coldplay"
   },
   {
     "title": "Dziwny jest ten świat",
@@ -202,6 +242,14 @@
   {
     "title": "Trójkąty i kwadraty",
     "artist": "Dawid Podsiadło"
+  },
+  {
+    "title": "Małomiasteczkowy",
+    "artist": "Dawid Podsiadło"
+  },
+  {
+    "title": "You spin me round",
+    "artist": "Dead or Alive"
   },
   {
     "title": "White Flag",
@@ -236,6 +284,10 @@
     "artist": "Edyta Górniak"
   },
   {
+    "title": "Dumka na dwa serca",
+    "artist": "Edyta Górniak, Mieczysław Szczęśniak"
+  },
+  {
     "title": "Love Me Like You Do",
     "artist": "Ellie Goulding"
   },
@@ -264,12 +316,44 @@
     "artist": "Evanescence"
   },
   {
+    "title": "Jak anioła głos",
+    "artist": "Feel"
+  },
+  {
+    "title": "Pokaż na co Cię stać",
+    "artist": "Feel"
+  },
+  {
     "title": "I'll Be There for You",
     "artist": "Friends"
   },
   {
     "title": "Ghostbusters",
     "artist": "Ghostbusters"
+  },
+  {
+    "title": "I will survive",
+    "artist": "Gloria Gaynor"
+  },
+  {
+    "title": "Lornetka",
+    "artist": "Golec Uorkiestra"
+  },
+  {
+    "title": "Pędzą konie",
+    "artist": "Golec Uorkiestra"
+  },
+  {
+    "title": "Ściernisko",
+    "artist": "Golec Uorkiestra"
+  },
+  {
+    "title": "Słodycze",
+    "artist": "Golec Uorkiestra"
+  },
+  {
+    "title": "Crazy is my life",
+    "artist": "Golec Uorkiestra"
   },
   {
     "title": "Czas nas uczy pogody",
@@ -296,12 +380,24 @@
     "artist": "Green Day"
   },
   {
+    "title": "Bracka",
+    "artist": "Grzegorz Turnau"
+  },
+  {
+    "title": "Między ciszą a ciszą",
+    "artist": "Grzegorz Turnau"
+  },
+  {
     "title": "Sweet Child O' Mine",
     "artist": "Guns N' Roses"
   },
   {
     "title": "Papierowy księżyc",
     "artist": "Halina Frąckowiak"
+  },
+  {
+    "title": "Zaim pójdę",
+    "artist": "Happysad"
   },
   {
     "title": "Szczęśliwego Nowego Jorku",
@@ -312,7 +408,31 @@
     "artist": "Hozier"
   },
   {
+    "title": "Take me to church",
+    "artist": "Hozier"
+  },
+  {
     "title": "Keine Grenzen",
+    "artist": "Ich Troje"
+  },
+  {
+    "title": "Powiedz",
+    "artist": "Ich Troje"
+  },
+  {
+    "title": "Zawsze z Tobą chciałbym być",
+    "artist": "Ich Troje"
+  },
+  {
+    "title": "Keine grenzen",
+    "artist": "Ich Troje"
+  },
+  {
+    "title": "Babski Świat",
+    "artist": "Ich Troje"
+  },
+  {
+    "title": "A wszystko to...",
     "artist": "Ich Troje"
   },
   {
@@ -328,6 +448,14 @@
     "artist": "Imagine Dragons"
   },
   {
+    "title": "Policeman",
+    "artist": "Jamal"
+  },
+  {
+    "title": "Jak zapomnieć",
+    "artist": "Jeden Osiem L"
+  },
+  {
     "title": "Imagine",
     "artist": "John Lennon"
   },
@@ -336,8 +464,16 @@
     "artist": "Journey"
   },
   {
+    "title": "Don't stop believin'",
+    "artist": "Journey"
+  },
+  {
     "title": "Can't Stop the Feeling!",
     "artist": "Justin Timberlake"
+  },
+  {
+    "title": "Carry on Wayward son",
+    "artist": "Kansas"
   },
   {
     "title": "Śpij kochanie, śpij",
@@ -408,6 +544,18 @@
     "artist": "Krzysztof Zalewski"
   },
   {
+    "title": "Gdy nie ma dzieci",
+    "artist": "Kult"
+  },
+  {
+    "title": "Baranek",
+    "artist": "Kult"
+  },
+  {
+    "title": "Lost on you",
+    "artist": "LP"
+  },
+  {
     "title": "City of Stars",
     "artist": "La La Land"
   },
@@ -468,6 +616,10 @@
     "artist": "Lombard"
   },
   {
+    "title": "Mambo No. 5",
+    "artist": "Lou Bega"
+  },
+  {
     "title": "Despacito",
     "artist": "Luis Fonsi ft. Daddy Yankee"
   },
@@ -492,11 +644,23 @@
     "artist": "Maanam"
   },
   {
+    "title": "Like a prayer",
+    "artist": "Madonna"
+  },
+  {
     "title": "Uptown Funk",
     "artist": "Mark Ronson ft. Bruno Mars"
   },
   {
+    "title": "Memories",
+    "artist": "Maroon 5"
+  },
+  {
     "title": "Niech żyje bal",
+    "artist": "Maryla Rodowicz"
+  },
+  {
+    "title": "Sing-sing",
     "artist": "Maryla Rodowicz"
   },
   {
@@ -548,6 +712,10 @@
     "artist": "Męskie Granie Orkiestra"
   },
   {
+    "title": "Sweet Caroline",
+    "artist": "Neil Diamond"
+  },
+  {
     "title": "Smells Like Teen Spirit",
     "artist": "Nirvana"
   },
@@ -558,6 +726,10 @@
   {
     "title": "Nie pytaj o Polskę",
     "artist": "Obywatel G.C."
+  },
+  {
+    "title": "I Lived",
+    "artist": "One Republic"
   },
   {
     "title": "Just Give Me a Reason",
@@ -628,6 +800,22 @@
     "artist": "Red Hot Chilli Peppers"
   },
   {
+    "title": "Kiedyś Cię znajdę",
+    "artist": "Reni Jusis"
+  },
+  {
+    "title": "Zakręcona",
+    "artist": "Reni Jusis"
+  },
+  {
+    "title": "Mamona",
+    "artist": "Republika"
+  },
+  {
+    "title": "Nie stało się nic",
+    "artist": "Robert Gawliński"
+  },
+  {
     "title": "Objection",
     "artist": "Shakira"
   },
@@ -668,12 +856,24 @@
     "artist": "Stevie Wonder"
   },
   {
+    "title": "Dzień dobry, kocham Cię",
+    "artist": "Strachy na Lachy"
+  },
+  {
     "title": "Eye of the Tiger",
     "artist": "Survivor"
   },
   {
     "title": "Miłość w Zakopanem",
     "artist": "Sławomir"
+  },
+  {
+    "title": "Warszawa",
+    "artist": "T. Love"
+  },
+  {
+    "title": "Chłopaki nie płaczą",
+    "artist": "T. Love"
   },
   {
     "title": "Wouldn't It Be Nice",
@@ -748,6 +948,10 @@
     "artist": "Varius Manx"
   },
   {
+    "title": "YMCA",
+    "artist": "Village People"
+  },
+  {
     "title": "Ona tańczy dla mnie",
     "artist": "Weekend"
   },
@@ -774,6 +978,10 @@
   {
     "title": "Sługi za szlugi",
     "artist": "Yugopolis"
+  },
+  {
+    "title": "Boso",
+    "artist": "Zakopower"
   },
   {
     "title": "Ya Soshla S Uma",
