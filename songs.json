@@ -56,6 +56,10 @@
     "artist": "Aerosmith"
   },
   {
+    "title": "Kiedy powiem sobie dosć",
+    "artist": "Agnieszka Chylińska"
+  },
+  {
     "title": "Być kobietą",
     "artist": "Alicja Majewska"
   },
@@ -96,6 +100,18 @@
     "artist": "Bajm"
   },
   {
+    "title": "Różowa kula",
+    "artist": "Bajm"
+  },
+  {
+    "title": "Modlitwa o złoty deszcz",
+    "artist": "Bajm"
+  },
+  {
+    "title": "Myśli i słowa",
+    "artist": "Bajm"
+  },
+  {
     "title": "Pompeii",
     "artist": "Bastille"
   },
@@ -105,6 +121,10 @@
   },
   {
     "title": "We Didn't Start the Fire",
+    "artist": "Billy Joel"
+  },
+  {
+    "title": "Uptown Girl",
     "artist": "Billy Joel"
   },
   {
@@ -144,6 +164,14 @@
     "artist": "Budka Suflera"
   },
   {
+    "title": "Takie tango",
+    "artist": "Budka Suflera"
+  },
+  {
+    "title": "Wicked Game",
+    "artist": "Chris Isaak"
+  },
+  {
     "title": "My Słowianie",
     "artist": "Cleo & Donatan"
   },
@@ -176,6 +204,10 @@
     "artist": "Dawid Podsiadło"
   },
   {
+    "title": "White Flag",
+    "artist": "Dido"
+  },
+  {
     "title": "Jolene",
     "artist": "Dolly Parton"
   },
@@ -200,6 +232,10 @@
     "artist": "Ed Sheeran"
   },
   {
+    "title": "Kolorowy wiatr",
+    "artist": "Edyta Górniak"
+  },
+  {
     "title": "Love Me Like You Do",
     "artist": "Ellie Goulding"
   },
@@ -208,11 +244,23 @@
     "artist": "Eminem"
   },
   {
+    "title": "Skrzydlate ręce",
+    "artist": "Enej"
+  },
+  {
+    "title": "Return to Innocence",
+    "artist": "Enigma"
+  },
+  {
     "title": "May it be",
     "artist": "Enya"
   },
   {
     "title": "Bring Me To Life",
+    "artist": "Evanescence"
+  },
+  {
+    "title": "Bring me to life",
     "artist": "Evanescence"
   },
   {
@@ -250,6 +298,10 @@
   {
     "title": "Sweet Child O' Mine",
     "artist": "Guns N' Roses"
+  },
+  {
+    "title": "Papierowy księżyc",
+    "artist": "Halina Frąckowiak"
   },
   {
     "title": "Szczęśliwego Nowego Jorku",
@@ -328,8 +380,32 @@
     "artist": "Kayah & Bregovic"
   },
   {
+    "title": "Pokolenie",
+    "artist": "Kombii"
+  },
+  {
     "title": "Parostatek",
     "artist": "Krzysztof Krawczyk"
+  },
+  {
+    "title": "Chciałem być",
+    "artist": "Krzysztof Krawczyk"
+  },
+  {
+    "title": "Ostatni raz zatańczysz ze mną",
+    "artist": "Krzysztof Krawczyk"
+  },
+  {
+    "title": "Mój przyjacielu",
+    "artist": "Krzysztof Krawczyk"
+  },
+  {
+    "title": "Bo jesteś Ty",
+    "artist": "Krzysztof Krawczyk"
+  },
+  {
+    "title": "Kurier",
+    "artist": "Krzysztof Zalewski"
   },
   {
     "title": "City of Stars",
@@ -348,6 +424,18 @@
     "artist": "Lady Pank"
   },
   {
+    "title": "Stacja Warszawa",
+    "artist": "Lady Pank"
+  },
+  {
+    "title": "Na co komu dziś",
+    "artist": "Lady Pank"
+  },
+  {
+    "title": "Mniej niż zero",
+    "artist": "Lady Pank"
+  },
+  {
     "title": "Stairway to Heaven",
     "artist": "Led Zeppelin"
   },
@@ -358,6 +446,18 @@
   {
     "title": "Hallelujah",
     "artist": "Leonard Cohen"
+  },
+  {
+    "title": "Circle of life",
+    "artist": "Lion King"
+  },
+  {
+    "title": "Hakuna Matata",
+    "artist": "Lion King"
+  },
+  {
+    "title": "Can you feel the love tonight",
+    "artist": "Lion King"
   },
   {
     "title": "Funkytown",
@@ -373,6 +473,22 @@
   },
   {
     "title": "Kocham Cię, kochanie moje",
+    "artist": "Maanam"
+  },
+  {
+    "title": "Cykady na Cykladach",
+    "artist": "Maanam"
+  },
+  {
+    "title": "Krakowski spleen",
+    "artist": "Maanam"
+  },
+  {
+    "title": "Szare miraże",
+    "artist": "Maanam"
+  },
+  {
+    "title": "Nie poganiaj mnie bo tracę oddech",
     "artist": "Maanam"
   },
   {
@@ -400,12 +516,36 @@
     "artist": "Michael Jackson"
   },
   {
+    "title": "To ostatnia niedziela",
+    "artist": "Mieczysław Fogg"
+  },
+  {
+    "title": "Angels",
+    "artist": "Morandi"
+  },
+  {
     "title": "Złoto",
+    "artist": "Mrozu"
+  },
+  {
+    "title": "Za daleko",
     "artist": "Mrozu"
   },
   {
     "title": "Długość dźwięku samotności",
     "artist": "Myslovitz"
+  },
+  {
+    "title": "Supermoce",
+    "artist": "Męskie Granie Orkiestra"
+  },
+  {
+    "title": "Początek",
+    "artist": "Męskie Granie Orkiestra"
+  },
+  {
+    "title": "Sobie i Wam",
+    "artist": "Męskie Granie Orkiestra"
   },
   {
     "title": "Smells Like Teen Spirit",
@@ -425,6 +565,18 @@
   },
   {
     "title": "Wojna i pokój",
+    "artist": "Perfect"
+  },
+  {
+    "title": "Kołysanka dla nieznajomej",
+    "artist": "Perfect"
+  },
+  {
+    "title": "Nie płacz Ewka",
+    "artist": "Perfect"
+  },
+  {
+    "title": "Autobiografia",
     "artist": "Perfect"
   },
   {
@@ -476,6 +628,18 @@
     "artist": "Red Hot Chilli Peppers"
   },
   {
+    "title": "Objection",
+    "artist": "Shakira"
+  },
+  {
+    "title": "Whenever, whenever",
+    "artist": "Shakira"
+  },
+  {
+    "title": "Ka-Ching!",
+    "artist": "Shania Twain"
+  },
+  {
     "title": "All Star",
     "artist": "Shrek"
   },
@@ -490,6 +654,10 @@
   {
     "title": "Nothing Compares 2 U",
     "artist": "Sinéad O'Connor"
+  },
+  {
+    "title": "Wszystko mi mówi, że mnie ktoś pokochał",
+    "artist": "Skaldowie"
   },
   {
     "title": "I'm a believer",
@@ -556,12 +724,24 @@
     "artist": "The Rasmus"
   },
   {
+    "title": "In the shadows",
+    "artist": "The Rasmus"
+  },
+  {
     "title": "Seven Nation Army",
     "artist": "The White Stripes"
   },
   {
+    "title": "Espresso Macchiato",
+    "artist": "Tommy Cash"
+  },
+  {
     "title": "Africa",
     "artist": "Toto"
+  },
+  {
+    "title": "Konik na biegunach",
+    "artist": "Urszula"
   },
   {
     "title": "Niebo dla Ciebie",
@@ -594,5 +774,21 @@
   {
     "title": "Sługi za szlugi",
     "artist": "Yugopolis"
+  },
+  {
+    "title": "Ya Soshla S Uma",
+    "artist": "t.A.T.u"
+  },
+  {
+    "title": "Nas Ne Dogoniat",
+    "artist": "t.A.T.u"
+  },
+  {
+    "title": "Agnieszka już dawno tutaj nie mieszka",
+    "artist": "Łzy"
+  },
+  {
+    "title": "Narcyz się nazywam",
+    "artist": "Łzy"
   }
 ]
