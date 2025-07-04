@@ -60,6 +60,10 @@
     "artist": "Agnieszka Chylińska"
   },
   {
+    "title": "Lubię mówić z Tobą",
+    "artist": "Akurat"
+  },
+  {
     "title": "Być kobietą",
     "artist": "Alicja Majewska"
   },
@@ -160,12 +164,32 @@
     "artist": "Bob Dylan"
   },
   {
+    "title": "Knocking on heavens door",
+    "artist": "Bob Dylan"
+  },
+  {
     "title": "Livin' on a Prayer",
     "artist": "Bon Jovi"
   },
   {
     "title": "It's My Life",
     "artist": "Bon Jovi"
+  },
+  {
+    "title": "Rasputin",
+    "artist": "Boney M."
+  },
+  {
+    "title": "Daddy Cool",
+    "artist": "Boney M."
+  },
+  {
+    "title": "Sunny",
+    "artist": "Boney M."
+  },
+  {
+    "title": "Rivers of Babylon",
+    "artist": "Boney M."
   },
   {
     "title": "Total eclipse of the heart",
@@ -212,8 +236,16 @@
     "artist": "Cleo & Donatan"
   },
   {
+    "title": "Un Poco Loco",
+    "artist": "Coco"
+  },
+  {
     "title": "Hymn for the weekend",
     "artist": "Coldplay"
+  },
+  {
+    "title": "Krama Chameleon",
+    "artist": "Culture Club"
   },
   {
     "title": "Dziwny jest ten świat",
@@ -292,6 +324,10 @@
     "artist": "Ellie Goulding"
   },
   {
+    "title": "Always on my mind",
+    "artist": "Elvis Presley"
+  },
+  {
     "title": "Lose Yourself",
     "artist": "Eminem"
   },
@@ -324,6 +360,18 @@
     "artist": "Friends"
   },
   {
+    "title": "Listen to the man",
+    "artist": "George Ezra"
+  },
+  {
+    "title": "Shotgun",
+    "artist": "George Ezra"
+  },
+  {
+    "title": "Budapest",
+    "artist": "George Ezra"
+  },
+  {
     "title": "Ghostbusters",
     "artist": "Ghostbusters"
   },
@@ -350,6 +398,10 @@
   {
     "title": "Crazy is my life",
     "artist": "Golec Uorkiestra"
+  },
+  {
+    "title": "Bella Ciao",
+    "artist": "Goran Bregovic"
   },
   {
     "title": "Czas nas uczy pogody",
@@ -444,8 +496,16 @@
     "artist": "Jeden Osiem L"
   },
   {
+    "title": "Take Me Home",
+    "artist": "John Denver"
+  },
+  {
     "title": "Imagine",
     "artist": "John Lennon"
+  },
+  {
+    "title": "You are my sunshine",
+    "artist": "Johnny Cash"
   },
   {
     "title": "Don't Stop Believin'",
@@ -580,6 +640,10 @@
     "artist": "Leonard Cohen"
   },
   {
+    "title": "One day more",
+    "artist": "Les Miserables"
+  },
+  {
     "title": "Circle of life",
     "artist": "Lion King"
   },
@@ -589,6 +653,10 @@
   },
   {
     "title": "Can you feel the love tonight",
+    "artist": "Lion King"
+  },
+  {
+    "title": "I Just Can't Wait to Be King",
     "artist": "Lion King"
   },
   {
@@ -656,6 +724,10 @@
     "artist": "Metallica"
   },
   {
+    "title": "Sacrum",
+    "artist": "Mezo"
+  },
+  {
     "title": "Billie Jean",
     "artist": "Michael Jackson"
   },
@@ -668,6 +740,22 @@
     "artist": "Mieczysław Fogg"
   },
   {
+    "title": "You're welcome",
+    "artist": "Moana"
+  },
+  {
+    "title": "Drobnostka",
+    "artist": "Moana"
+  },
+  {
+    "title": "Błyszczeć",
+    "artist": "Moana"
+  },
+  {
+    "title": "Na Drodze Tej",
+    "artist": "Moana"
+  },
+  {
     "title": "Angels",
     "artist": "Morandi"
   },
@@ -678,6 +766,10 @@
   {
     "title": "Za daleko",
     "artist": "Mrozu"
+  },
+  {
+    "title": "Nigdy Nie Ulegnę",
+    "artist": "Mustang Z Dzikiej Doliny"
   },
   {
     "title": "Długość dźwięku samotności",
@@ -702,6 +794,10 @@
   {
     "title": "Smells Like Teen Spirit",
     "artist": "Nirvana"
+  },
+  {
+    "title": "Dragostea Din Tei",
+    "artist": "O-zone"
   },
   {
     "title": "Wonderwall",
@@ -796,8 +892,20 @@
     "artist": "Republika"
   },
   {
+    "title": "Sara Perche Ti Amo",
+    "artist": "Ricchi e Poveri"
+  },
+  {
+    "title": "Umbrella",
+    "artist": "Rihanna"
+  },
+  {
     "title": "Nie stało się nic",
     "artist": "Robert Gawliński"
+  },
+  {
+    "title": "Nic dwa razy",
+    "artist": "Sanah"
   },
   {
     "title": "Objection",
@@ -860,6 +968,10 @@
     "artist": "T. Love"
   },
   {
+    "title": "Shake it off",
+    "artist": "Taylor Swift"
+  },
+  {
     "title": "Wouldn't It Be Nice",
     "artist": "The Beach Boys"
   },
@@ -888,12 +1000,40 @@
     "artist": "The Cure"
   },
   {
+    "title": "From now on",
+    "artist": "The Greatest Showman"
+  },
+  {
+    "title": "This is me",
+    "artist": "The Greatest Showman"
+  },
+  {
+    "title": "The greatest show",
+    "artist": "The Greatest Showman"
+  },
+  {
+    "title": "Come alive",
+    "artist": "The Greatest Showman"
+  },
+  {
+    "title": "Never enough",
+    "artist": "The Greatest Showman"
+  },
+  {
+    "title": "Tightrope",
+    "artist": "The Greatest Showman"
+  },
+  {
     "title": "Dream A Little Dream Of Me",
     "artist": "The Mamas & The Papas"
   },
   {
     "title": "California Dreamin'",
     "artist": "The Mamas & The Papas"
+  },
+  {
+    "title": "Let her go",
+    "artist": "The Passenger"
   },
   {
     "title": "Roxanne",
@@ -962,6 +1102,14 @@
   {
     "title": "Boso",
     "artist": "Zakopower"
+  },
+  {
+    "title": "Lubię wracać tam gdzie byłem",
+    "artist": "Zbigniew Wodecki"
+  },
+  {
+    "title": "Pszczółka maja",
+    "artist": "Zbigniew Wodecki"
   },
   {
     "title": "Ya Soshla S Uma",
