@@ -80,6 +80,10 @@
     "artist": "Anna Jantar"
   },
   {
+    "title": "Barbie girl",
+    "artist": "Aqua"
+  },
+  {
     "title": "Do I wanna know?",
     "artist": "Arctic Monkeys"
   },
@@ -89,6 +93,10 @@
   },
   {
     "title": "Waiting For Love",
+    "artist": "Avicii"
+  },
+  {
+    "title": "Hey brother",
     "artist": "Avicii"
   },
   {
@@ -160,6 +168,10 @@
     "artist": "Blue Swede"
   },
   {
+    "title": "Song 2",
+    "artist": "Blur"
+  },
+  {
     "title": "Like a Rolling Stone",
     "artist": "Bob Dylan"
   },
@@ -214,6 +226,10 @@
   {
     "title": "Born to Run",
     "artist": "Bruce Springsteen"
+  },
+  {
+    "title": "The lazy song",
+    "artist": "Bruno Mars"
   },
   {
     "title": "Jolka, Jolka pamiętasz",
@@ -312,6 +328,14 @@
     "artist": "Ed Sheeran"
   },
   {
+    "title": "Opowieść",
+    "artist": "Edyta Bartosiewicz"
+  },
+  {
+    "title": "Ostatni",
+    "artist": "Edyta Bartosiewicz"
+  },
+  {
     "title": "Kolorowy wiatr",
     "artist": "Edyta Górniak"
   },
@@ -356,8 +380,16 @@
     "artist": "Feel"
   },
   {
+    "title": "A little party never killed nobody",
+    "artist": "Fergie"
+  },
+  {
     "title": "I'll Be There for You",
     "artist": "Friends"
+  },
+  {
+    "title": "Freed from desire",
+    "artist": "Gala"
   },
   {
     "title": "Listen to the man",
@@ -516,8 +548,16 @@
     "artist": "Justin Timberlake"
   },
   {
+    "title": "Zabiorę Cię",
+    "artist": "Kancelarya"
+  },
+  {
     "title": "Carry on Wayward son",
     "artist": "Kansas"
+  },
+  {
+    "title": "I kissed a girl",
+    "artist": "Katy Perry"
   },
   {
     "title": "Śpij kochanie, śpij",
@@ -676,6 +716,10 @@
     "artist": "Luis Fonsi ft. Daddy Yankee"
   },
   {
+    "title": "Sweet home Alabama",
+    "artist": "Lynyrd Skynyrd"
+  },
+  {
     "title": "Kocham Cię, kochanie moje",
     "artist": "Maanam"
   },
@@ -728,12 +772,24 @@
     "artist": "Mezo"
   },
   {
+    "title": "Conga!",
+    "artist": "Miami Sound Machine"
+  },
+  {
     "title": "Billie Jean",
     "artist": "Michael Jackson"
   },
   {
     "title": "Thriller",
     "artist": "Michael Jackson"
+  },
+  {
+    "title": "We are the world",
+    "artist": "Michael Jackson"
+  },
+  {
+    "title": "Ai Se Eu Te Pego",
+    "artist": "Michel Telo"
   },
   {
     "title": "To ostatnia niedziela",
@@ -808,6 +864,10 @@
     "artist": "Obywatel G.C."
   },
   {
+    "title": "One way or another",
+    "artist": "One Direction"
+  },
+  {
     "title": "I Lived",
     "artist": "One Republic"
   },
@@ -842,6 +902,14 @@
   {
     "title": "Another Brick in the Wall",
     "artist": "Pink Floyd"
+  },
+  {
+    "title": "Psalm dla Ciebie",
+    "artist": "Piotr Rubik"
+  },
+  {
+    "title": "Niech mówią, że to nie jest miłość",
+    "artist": "Piotr Rubik"
   },
   {
     "title": "Timber",
@@ -896,6 +964,10 @@
     "artist": "Ricchi e Poveri"
   },
   {
+    "title": "Livin' la Vida Loca",
+    "artist": "Ricky Martin"
+  },
+  {
     "title": "Umbrella",
     "artist": "Rihanna"
   },
@@ -906,6 +978,10 @@
   {
     "title": "Nic dwa razy",
     "artist": "Sanah"
+  },
+  {
+    "title": "Wind of change",
+    "artist": "Scorpions"
   },
   {
     "title": "Objection",
@@ -944,6 +1020,10 @@
     "artist": "Smash Mouth"
   },
   {
+    "title": "Young, wild & free",
+    "artist": "Snoop Dogg, Wiz Khalifa"
+  },
+  {
     "title": "Superstition",
     "artist": "Stevie Wonder"
   },
@@ -954,6 +1034,10 @@
   {
     "title": "Eye of the Tiger",
     "artist": "Survivor"
+  },
+  {
+    "title": "Małe rzeczy",
+    "artist": "Sylwia Grzeszczak"
   },
   {
     "title": "Miłość w Zakopanem",
@@ -1072,12 +1156,28 @@
     "artist": "Varius Manx"
   },
   {
+    "title": "Zanim zrozumiesz",
+    "artist": "Varius Manx"
+  },
+  {
+    "title": "Zamigotał świat",
+    "artist": "Varius Manx"
+  },
+  {
     "title": "YMCA",
     "artist": "Village People"
   },
   {
+    "title": "2 bajki",
+    "artist": "Virgin"
+  },
+  {
     "title": "Ona tańczy dla mnie",
     "artist": "Weekend"
+  },
+  {
+    "title": "Wake me up before you go-go",
+    "artist": "Wham!"
   },
   {
     "title": "I Will Always Love You",
@@ -1114,6 +1214,10 @@
   {
     "title": "Pszczółka maja",
     "artist": "Zbigniew Wodecki"
+  },
+  {
+    "title": "We are young",
+    "artist": "fun"
   },
   {
     "title": "Ya Soshla S Uma",
