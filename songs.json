@@ -56,6 +56,10 @@
     "artist": "Aerosmith"
   },
   {
+    "title": "Dream on",
+    "artist": "Aerosmith"
+  },
+  {
     "title": "Kiedy powiem sobie dosć",
     "artist": "Agnieszka Chylińska"
   },
@@ -66,6 +70,10 @@
   {
     "title": "Być kobietą",
     "artist": "Alicja Majewska"
+  },
+  {
+    "title": "Chodź, przytul, przebacz",
+    "artist": "Andrzej Piaseczny"
   },
   {
     "title": "Czy ten Pan i Pani",
@@ -288,6 +296,10 @@
     "artist": "David Bowie"
   },
   {
+    "title": "Under Pressure",
+    "artist": "David Bowie"
+  },
+  {
     "title": "Trójkąty i kwadraty",
     "artist": "Dawid Podsiadło"
   },
@@ -408,7 +420,7 @@
     "artist": "Ghostbusters"
   },
   {
-    "title": "I will survive",
+    "title": "I Will Survive",
     "artist": "Gloria Gaynor"
   },
   {
@@ -484,6 +496,10 @@
     "artist": "Hey"
   },
   {
+    "title": "Moja i Twoja nadzieja",
+    "artist": "Hey, Edyta Bartosiewicz"
+  },
+  {
     "title": "Take Me to Church",
     "artist": "Hozier"
   },
@@ -517,6 +533,22 @@
   },
   {
     "title": "Thunder",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Fire in These Hills",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Bones",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Take me to the beach",
+    "artist": "Imagine Dragons"
+  },
+  {
+    "title": "Bad Liar",
     "artist": "Imagine Dragons"
   },
   {
@@ -768,6 +800,10 @@
     "artist": "Metallica"
   },
   {
+    "title": "The Unforgiven",
+    "artist": "Metallica"
+  },
+  {
     "title": "Sacrum",
     "artist": "Mezo"
   },
@@ -846,6 +882,10 @@
   {
     "title": "Sweet Caroline",
     "artist": "Neil Diamond"
+  },
+  {
+    "title": "Walking in the air",
+    "artist": "Nightwish, The Snowman"
   },
   {
     "title": "Smells Like Teen Spirit",
@@ -1136,6 +1176,10 @@
     "artist": "The Rasmus"
   },
   {
+    "title": "October & April",
+    "artist": "The Rasmus"
+  },
+  {
     "title": "Seven Nation Army",
     "artist": "The White Stripes"
   },
@@ -1146,6 +1190,10 @@
   {
     "title": "Africa",
     "artist": "Toto"
+  },
+  {
+    "title": "Lady in Black",
+    "artist": "Uriah Heep"
   },
   {
     "title": "Konik na biegunach",
